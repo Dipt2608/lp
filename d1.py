@@ -1,4 +1,4 @@
-a=5
-b=10
-c=a+b
-print("Addition is:",c)
+a=13
+b=2
+c=a*b
+print("Product is:",c)
